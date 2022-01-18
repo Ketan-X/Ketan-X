@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ketan Saraf
 - 👀 I’m interested in Market Networks
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on CultureX Projects
+- 🤝 I’m looking to collaborate on **CultureX** Projects
 - 📫 Mail: ketan.culturex@gmail.com
 
 <!---
